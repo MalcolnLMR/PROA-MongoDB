@@ -65,7 +65,7 @@
 ```
 <hr>
 
-#### 7 Na campo "Vencedor", altere todos os valores com "Sim" para 1 e todos os valores "Não" para 0.</br>
+#### 7. Na campo "Vencedor", altere todos os valores com "Sim" para 1 e todos os valores "Não" para 0.</br>
 <strong>Resposta:</strong> Alterado 👍
 
 ```
@@ -89,7 +89,7 @@
 
 <hr>
 
-#### 8 Em qual edição do Oscar "Crash" concorreu ao Oscar?</br>
+#### 8. Em qual edição do Oscar "Crash" concorreu ao Oscar?</br>
 <strong>Resposta:</strong> Na edição número 78
 
 ```
@@ -99,7 +99,7 @@
 
 <hr>
 
-#### 9 Bom... dê um Oscar para um filme que merece muito, mas não ganhou.</br>
+#### 9. Bom... dê um Oscar para um filme que merece muito, mas não ganhou.</br>
 <strong>Resposta:</strong> não conheço nenhum filme direito 😭
 
 ```
@@ -123,7 +123,7 @@
 
 <hr>
 
-#### 10 O filme Central do Brasil aparece no Oscar?</br>
+#### 10. O filme Central do Brasil aparece no Oscar?</br>
 <strong>Resposta:</strong> Sim, aparece
 
 ```
@@ -133,7 +133,7 @@
 
 <hr>
 
-#### 11 Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que merecem ser. </br>
+#### 11. Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que merecem ser. </br>
 <strong>Resposta:</strong> Coloquei 😳
 
 ```
@@ -177,7 +177,7 @@
 
 <hr>
 
-#### 12 Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?</br>
+#### 12. Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?</br>
 <strong>Resposta:</strong> Chicago, Nicole Kidman e Adrien Brody
 
 
