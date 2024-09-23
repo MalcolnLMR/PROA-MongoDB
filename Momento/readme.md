@@ -366,7 +366,7 @@
 <hr>
 
 #### 14. Qual o produto mais vendido da empresa?</br>
-<strong>Resposta:</strong> R$ 376.425.000,00 | Folha de 'Sufito'
+<strong>Resposta:</strong> É o laço da verdade, vendeu 12 unidades
 
 ```js
 > db.vendas.aggregate([
@@ -392,7 +392,7 @@
 <hr>
 
 #### 14. Qual o produto menos vendido da empresa?</br>
-<strong>Resposta:</strong> R$ 376.425.000,00 | Folha de 'Sufito'
+<strong>Resposta:</strong> É o Fake Batarang, vendeu 2 unidades
 
 ```js
 > db.vendas.aggregate([
