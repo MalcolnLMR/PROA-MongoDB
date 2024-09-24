@@ -281,7 +281,7 @@
 ```
 <hr>
 
-#### 13. Qual o departamento com o menor número de funcionários?</br>
+#### 14. Qual o departamento com o menor número de funcionários?</br>
 <strong>Resposta:</strong> Também é o executivo.
 
 ```js
@@ -323,7 +323,7 @@
 ```
 <hr>
 
-#### 14. Pensando na relação quantidade e valor unitario, qual o produto mais valioso da empresa?</br>
+#### 15. Pensando na relação quantidade e valor unitario, qual o produto mais valioso da empresa?</br>
 <strong>Resposta:</strong> R$ 376.425.000,00 | Folha de 'Sufito'
 
 ```js
@@ -365,7 +365,7 @@
 ```
 <hr>
 
-#### 14. Qual o produto mais vendido da empresa?</br>
+#### 16. Qual o produto mais vendido da empresa?</br>
 <strong>Resposta:</strong> É o laço da verdade, vendeu 12 unidades
 
 ```js
@@ -391,7 +391,7 @@
 ```
 <hr>
 
-#### 14. Qual o produto menos vendido da empresa?</br>
+#### 17. Qual o produto menos vendido da empresa?</br>
 <strong>Resposta:</strong> É o Fake Batarang, vendeu 2 unidades
 
 ```js
