@@ -467,5 +467,32 @@ db.medicos.insertMany([
             "CRM": "SP456123"
         },
         "em_atividade": false
+    },
+    {
+        "nome": "Dr. Gabriel Alves",
+        "data_nascimento": ISODate("1989-11-07"),
+        "endereco": {
+            "logradouro": "Rua Pamplona",
+            "numero": "550",
+            "bairro": "Jardim Paulista",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "CEP": "01405000"
+        },
+        "especialidades": [
+            "Neurologia",
+            "gastroenterologia"
+        ],
+        "tipo": "Especialista",
+        "contato": {
+            "telefone": "55-11-945678901",
+            "email": "gabriel.ferreira@gmail.com"
+        },
+        "documentos": {
+            "CPF": "56789012345",
+            "RG": "567890123",
+            "CRM": "SP456123"
+        },
+        "em_atividade": false
     }
 ])

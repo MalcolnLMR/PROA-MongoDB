@@ -528,7 +528,67 @@ db.pacientes.insertMany([
             "CPF": "01234567890",
             "RG": "456789012"
         }
+    },
+    {
+        "nome": "Lucas Ferreira",
+        "data_nascimento": ISODate("2010-03-15"),
+        "altura": 1.45,
+        "peso": 35,
+        "sexo": "masculino",
+        "genero": "masculino",
+        "etnia": "branco",
+        "endereco": {
+            "logradouro": "Rua das Flores",
+            "numero": "123",
+            "bairro": "Jardim Paulista",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "CEP": "12345678"
+        },
+        "contato": {
+            "telefone": "55-11-934567843",
+            "email": "lucas.ferreira@gmail.com"
+        },
+        "convenio": {
+            "nome": "Amil",
+            "validade": ISODate("2025-09-15"),
+            "CNPJ": "12345678000199",
+            "carencia": 60
+        },
+        "documentos": {
+            "CPF": "12345678901",
+            "RG": "123456789"
+        }
+    },
+    {
+        "nome": "Mariana Souza",
+        "data_nascimento": ISODate("2012-06-20"),
+        "altura": 1.30,
+        "peso": 28,
+        "sexo": "feminino",
+        "genero": "feminino",
+        "etnia": "branca",
+        "endereco": {
+            "logradouro": "Avenida Central",
+            "numero": "456",
+            "bairro": "Centro",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "CEP": "98765432"
+        },
+        "contato": {
+            "telefone": "55-11-923456789",
+            "email": "mariana.souza@gmail.com"
+        },
+        "convenio": {
+            "nome": "Bradesco Saúde",
+            "validade": ISODate("2026-01-30"),
+            "CNPJ": "98765432000188",
+            "carencia": 90
+        },
+        "documentos": {
+            "CPF": "98765432100",
+            "RG": "987654321"
+        }
     }
-    
-    
 ])

@@ -632,5 +632,29 @@ db.consultas.insertMany([
                 }
             ]
         }
+    },
+    {
+        "data": ISODate("2024-08-30T14:00:00Z"),
+        "medico_id": ObjectId("66ee27e807cbcc34c9b4c51b"),
+        "paciente_id": ObjectId("66f45ed26f90520f9d2f41c7"),
+        "valor": 195,
+        "conveniada": true,
+        "especialidade_buscada": "Oftalmologia",
+        "descricao": "Paciente com visão embaçada",
+        "receita": {
+            "medicamentos": [
+                {
+                    "nome": "Colírio lubrificante",
+                    "quantidade": 1,
+                    "instrucoes": "Aplicar 2 gotas em cada olho 3 vezes ao dia"
+                }
+            ],
+            "tratamentos": [
+                {
+                    "nome": "Consulta de revisão",
+                    "frequencia": "Marcar para 3 meses"
+                }
+            ]
+        }
     }
 ]);
